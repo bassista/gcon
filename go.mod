@@ -1,3 +1,3 @@
-module github.com/jonbodner/gcon
+module github.com/bassista/gcon
 
 go 1.18
