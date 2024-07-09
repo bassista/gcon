@@ -1,4 +1,4 @@
-package github.com/bassista/gcon
+package gcon
 
 import (
 	"context"
